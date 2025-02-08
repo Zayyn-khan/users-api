@@ -1,0 +1,161 @@
+[
+    {
+        "id": 1001,
+        "username": "zainkhan01",
+        "email": "zain01@gmail.com",
+        "hashpass": "zainpass01",
+        "phone": "3115272891"
+    },
+
+    {
+        "id": 1002,
+        "username": "hmazakhan01",
+        "email": "hamza01@gmail.com",
+        "hashpass": "hamzapass01",
+        "phone": "3457687879"
+    },
+
+    {
+        "id": 1003,
+        "username": "qasimkhan01",
+        "email": "qasim01@gmail.com",
+        "hashpass": "qasimpass01",
+        "phone": "3117987825"
+    },
+
+    {
+        "id": 1004,
+        "username": "talhakhan01",
+        "email": "talha01@gmail.com",
+        "hashpass": "talahpass01",
+        "phone": "3789032191"
+    },
+
+    {
+        "id": 1005,
+        "username": "nizamkhan01",
+        "email": "nizam01@gmail.com",
+        "hashpass": "nizampass01",
+        "phone": "3115272892"
+    },
+
+    {
+        "id": 1006,
+        "username": "etizazkhan01",
+        "email": "etizaz01@gmail.com",
+        "hashpass": "etizazpass01",
+        "phone": "3759654783"
+    },
+
+    {
+        "id": 1007,
+        "username": "taqikhan01",
+        "email": "taqi01@gmail.com",
+        "hashpass": "taqipass01",
+        "phone": "3557578022"
+    },
+
+    {
+        "id": 1008,
+        "username": "hussainkhan01",
+        "email": "hussain01@gmail.com",
+        "hashpass": "hussainpass01",
+        "phone": "3287927368"
+    },
+
+    {
+        "id": 1009,
+        "username": "hassankhan01",
+        "email": "hassan01@gmail.com",
+        "hashpass": "hassanpass01",
+        "phone": "3465756561"
+    },
+
+    {
+        "id": 1010,
+        "username": "ziakhan01",
+        "email": "zia01@gmail.com",
+        "hashpass": "ziapass01",
+        "phone": "3432463828"
+    },
+
+    {
+        "id": 1011,
+        "username": "nomankhan01",
+        "email": "noman01@gmail.com",
+        "hashpass": "nomanpass01",
+        "phone": "3424567646"
+    },
+
+    {
+        "id": 1012,
+        "username": "hasnainkhan01",
+        "email": "hasnain01@gmail.com",
+        "hashpass": "hasnainpass01",
+        "phone": "3643753276"
+    },
+
+    {
+        "id": 1013,
+        "username": "zainkhan02",
+        "email": "zain02@gmail.com",
+        "hashpass": "zainpass02",
+        "phone": "3115272893"
+    },
+
+    {
+        "id": 1014,
+        "username": "zainkhan03",
+        "email": "zain03@gmail.com",
+        "hashpass": "zainpass03",
+        "phone": "3115272894"
+    },
+
+    {
+        "id": 1015,
+        "username": "zainkhan04",
+        "email": "zain04@gmail.com",
+        "hashpass": "zainpass04",
+        "phone": "3115272895"
+    },
+
+    {
+        "id": 1016,
+        "username": "zainkhan05",
+        "email": "zain05@gmail.com",
+        "hashpass": "zainpass05",
+        "phone": "3115272896"
+    },
+
+    {
+        "id": 1017,
+        "username": "zainkhan06",
+        "email": "zain06@gmail.com",
+        "hashpass": "zainpass06",
+        "phone": "3115272897"
+    },
+
+    {
+        "id": 1018,
+        "username": "zainkhan07",
+        "email": "zain07@gmail.com",
+        "hashpass": "zainpass07",
+        "phone": "3115272899"
+    },
+
+    {
+        "id": 1019,
+        "username": "zainkhan08",
+        "email": "zain08@gmail.com",
+        "hashpass": "zainpass08",
+        "phone": "3115272900"
+    },
+
+    {
+        "id": 1020,
+        "username": "zainkhan09",
+        "email": "zain09@gmail.com",
+        "hashpass": "zainpass09",
+        "phone": "3115272901"
+    }
+]
